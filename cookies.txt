@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.astrospiritrc.com	TRUE	/	FALSE	1999999999	PHPSESSID	6i97vpsl2dkpboi5ab5kt3dek2
+

@@ -1,0 +1,92 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 03 Feb 2017 21:05:54 at www.astrospiritrc.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" www.astrospiritrc.com -O1 "C:\My Web Sites\asrc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:06:58	Error: 	"Method Not Allowed" (405) at link www.astrospiritrc.com/xmlrpc.php (from www.astrospiritrc.com/)
+21:10:42	Error: 	"Not Found" (404) at link www.astrospiritrc.com/wp-content/plugins/svg-vector-icon-plugin/admin/images/download-icon-small.png (from www.astrospiritrc.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/wordpress-svg-icon-plugin-style.min.css?ver=4.7.2)
+21:10:44	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=644
+21:10:44	Warning: 	File has moved from www.astrospiritrc.com/?p=644 to http://www.astrospiritrc.com/diwali-lakshmi-poojan/
+21:10:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 1215136 got 1076532): www.astrospiritrc.com/wp-content/uploads/2016/10/icecream.png
+21:11:11	Warning: 	Retry after error -4 (No data (connection closed)) at link www.astrospiritrc.com/wp-content/uploads/2016/07/vastu.jpg (from www.astrospiritrc.com/courses/)
+21:11:12	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=14
+21:11:12	Warning: 	File has moved from www.astrospiritrc.com/?p=14 to http://www.astrospiritrc.com/courses/
+21:11:12	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=7
+21:11:12	Warning: 	File has moved from www.astrospiritrc.com/?p=7 to http://www.astrospiritrc.com/services/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=202
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=202 to http://www.astrospiritrc.com/contact-us/
+21:12:14	Warning: 	Retry after error -4 (Incorrect length (1076532 Bytes, 1215136 expected)) at link www.astrospiritrc.com/wp-content/uploads/2016/10/icecream.png (from www.astrospiritrc.com/importance-of-karvachauth/)
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=640
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=640 to http://www.astrospiritrc.com/importance-of-karvachauth/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=634
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=634 to http://www.astrospiritrc.com/karvachauth-special/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=626
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=626 to http://www.astrospiritrc.com/ganesh-chaturthi/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=612
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=612 to http://www.astrospiritrc.com/thought-of-the-day-4/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=609
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=609 to http://www.astrospiritrc.com/thought-of-the-day-3/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=605
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=605 to http://www.astrospiritrc.com/thought-of-the-day-2/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=601
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=601 to http://www.astrospiritrc.com/thought-of-the-day/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=597
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=597 to http://www.astrospiritrc.com/thought-of-the-day24aug16/
+21:12:14	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=592
+21:12:14	Warning: 	File has moved from www.astrospiritrc.com/?p=592 to http://www.astrospiritrc.com/thought-of-the-day23aug16/
+21:12:14	Error: 	"Not Found" (404) at link www.astrospiritrc.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_GB/sdk.js)
+21:12:15	Error: 	"Not Found" (404) at link www.astrospiritrc.com/restserver.php (from connect.facebook.net/en_GB/sdk.js)
+21:12:15	Error: 	"Not Found" (404) at link www.astrospiritrc.com/dialog/ (from connect.facebook.net/en_GB/sdk.js)
+21:12:15	Error: 	"Bad Request" (400) at link www.astrospiritrc.com/%s/profile.php?id=%s (from connect.facebook.net/en_GB/sdk.js)
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=622
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=622 to http://www.astrospiritrc.com/thought-day22aug16/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=584
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=584 to http://www.astrospiritrc.com/forgiving-friday/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=573
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=573 to http://www.astrospiritrc.com/thought-of-the-day17aug16/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=560
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=560 to http://www.astrospiritrc.com/thought-of-the-day16aug16/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=551
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=551 to http://www.astrospiritrc.com/daily-horoscope-15-august-2016/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=519
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=519 to http://www.astrospiritrc.com/daily-horoscope/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=581
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=581 to http://www.astrospiritrc.com/raksha-bandhan-subh-muhurat/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=577
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=577 to http://www.astrospiritrc.com/happy-raksha-bandhan/
+21:13:15	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=527
+21:13:15	Warning: 	File has moved from www.astrospiritrc.com/?p=527 to http://www.astrospiritrc.com/independence-day-special/
+21:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link www.astrospiritrc.com/wp-content/uploads/2016/08/jan5.png (from www.astrospiritrc.com/janmashtami-special/)
+21:13:30	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=615
+21:13:30	Warning: 	File has moved from www.astrospiritrc.com/?p=615 to http://www.astrospiritrc.com/janmashtami-special/
+21:13:30	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=508
+21:13:30	Warning: 	File has moved from www.astrospiritrc.com/?p=508 to http://www.astrospiritrc.com/thought-of-the-day14aug16/
+21:13:30	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=505
+21:13:30	Warning: 	File has moved from www.astrospiritrc.com/?p=505 to http://www.astrospiritrc.com/thought-of-the-day13aug16/
+21:13:30	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=502
+21:13:30	Warning: 	File has moved from www.astrospiritrc.com/?p=502 to http://www.astrospiritrc.com/thought-of-the-day12aug16/
+21:13:30	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=499
+21:13:30	Warning: 	File has moved from www.astrospiritrc.com/?p=499 to http://www.astrospiritrc.com/thought-of-the-day11aug16/
+21:13:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.astrospiritrc.com/masik-shivaratri/feed/ (from www.astrospiritrc.com/masik-shivaratri/)
+21:13:31	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=444
+21:13:31	Warning: 	File has moved from www.astrospiritrc.com/?p=444 to http://www.astrospiritrc.com/masik-shivaratri/
+21:13:31	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=303
+21:13:31	Warning: 	File has moved from www.astrospiritrc.com/?p=303 to http://www.astrospiritrc.com/shravan-fast-story-monday/
+21:13:31	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=279
+21:13:31	Warning: 	File has moved from www.astrospiritrc.com/?p=279 to http://www.astrospiritrc.com/reason-behind-kanwar-yatra/
+21:13:31	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=264
+21:13:31	Warning: 	File has moved from www.astrospiritrc.com/?p=264 to http://www.astrospiritrc.com/tuesday-vrat-and-hanuman-ji/
+21:13:31	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=127
+21:13:31	Warning: 	File has moved from www.astrospiritrc.com/?p=127 to http://www.astrospiritrc.com/sawan/
+21:13:36	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=496
+21:13:36	Warning: 	File has moved from www.astrospiritrc.com/?p=496 to http://www.astrospiritrc.com/thought-of-the-day10aug16/
+21:13:36	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=486
+21:13:36	Warning: 	File has moved from www.astrospiritrc.com/?p=486 to http://www.astrospiritrc.com/nag-panchami/
+21:13:36	Warning: 	Moved Permanently for www.astrospiritrc.com/?p=305
+21:13:36	Warning: 	File has moved from www.astrospiritrc.com/?p=305 to http://www.astrospiritrc.com/108-names-of-shiva/
+
+HTTrack Website Copier/3.48-22 mirror complete in 7 minutes 42 seconds : 371 links scanned, 325 files written (13762987 bytes overall) [11256592 bytes received at 24364 bytes/sec], 6856365 bytes transferred using HTTP compression in 202 files, ratio 59%, 10.9 requests per connection
+(6 errors, 75 warnings, 0 messages)
